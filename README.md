@@ -7,7 +7,7 @@ A vaga é para Desenvolvedor(a), temos vagas com diversos níveis de senioridade
 Se você for aprovad(a) nesta etapa, será convidado para uma entrevista final.
 
 ### Desafio Técnico
-  Nós trabalhamos com saúde e nada melhor do que um bom sistema para gestão de exames, onde cada médico só pode ver o hstórico dos exames que ele solicitou
+  Nós trabalhamos com saúde e nada melhor do que um bom sistema para gestão de exames, onde cada médico só pode ver o histórico dos exames que ele solicitou
   
   - Pré-requisitos:
     ```
